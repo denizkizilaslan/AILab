@@ -1,0 +1,19 @@
+# --- Veritabanı ve Depolama ---
+qdrant_storage/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+venv/
+ENV/
+
+# --- Model Dosyaları ---
+models/
+.huggingface/
+
+# --- İşletim Sistemi ---
+.DS_Store
+Thumbs.db
